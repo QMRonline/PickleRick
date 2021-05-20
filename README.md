@@ -39,10 +39,11 @@ Task 1 :
 
 #use the command less and the filename to show the first ingridiant
 
-**
-First ingrediant is solved**
+
 
 -----------------------------------------------------------------------------
+First ingrediant is solved
+
 #on looking burp suit the backend of /portal.php few strings are there looks like base64 lets use the base64 decode feature inbuilt in burp suit
 
 #after few filteration "rabbit hole" is the string what we got from it
@@ -54,14 +55,16 @@ First ingrediant is solved**
 #cd /home/rick gives the secong ingridiant 
 
 #cat "second ingredients" 1 jerry tear is the out string
-**
-Second ingrediant is solved**
+
+
 -----------------------------------------------------------------------------
+Second ingrediant is solved
+
 #lets try sudo -l to cheat weather we can login without any password
 
 #yeah we can so use the command "sudo su"  now  "id" shows we are root now /root
 
 #"ls" gives the 3rd.txt cat 3rd.txt reveals the 3rd ingredients: fleeb juice
-**
-Third ingrediant is solved**
+
 -----------------------------------------------------------------------------
+Third ingrediant is solved
