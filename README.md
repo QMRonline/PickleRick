@@ -48,7 +48,7 @@ First ingrediant is solved
 
 #after few filteration "rabbit hole" is the string what we got from it
 
-#Since we know we can execute the commands lets try pentest money cheat sheet http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet or i have  filtered version of cheatcode.txt do have a look at it, lets try onebyone PERL reverse shell works just replace with the local ip and port 
+#Since we know we can execute the commands lets try pentest money cheat sheet http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet or i have  filtered simplified version of cheatcode.txt https://github.com/QMRonline/PickleRick/blob/main/cheatsheet.txt do have a look at it, lets try onebyone PERL reverse shell works just replace with the local ip and port 
 
 #Use NetCat "nc -lvnp 4444" lets start to listen the connection on port 4444 
 
