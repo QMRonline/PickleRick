@@ -71,5 +71,5 @@ Third ingrediant is solved
 
 **Proud moment**
 
-![image](https://user-images.githubusercontent.com/79510640/119019657-627e0f80-b96b-11eb-9ad5-efa08be09c33.png)
+![BG](https://user-images.githubusercontent.com/79510640/119020564-5f375380-b96c-11eb-9679-e786cd13954b.jpg)
 
